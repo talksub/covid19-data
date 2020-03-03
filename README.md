@@ -1,7 +1,7 @@
 # covid19-data
 Coronavirus COVID-19 dataset for cases, deaths, recovered in the US (United States), Canada, and UK (United Kingdom).
 
-## Case Entry Format
+## Case Entry Format (JSON)
 ```typescript
 interface CaseEntry {
   date: string;                 // "3/3/2020, 3:16 AM GMT-0800"
