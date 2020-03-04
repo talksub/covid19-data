@@ -1,19 +1,19 @@
 [
 	{
-		"date": "1/21/2020, 1:30 PM GMT-0500",
+		"date": "1/26/2020, 11:20 AM GMT-0500",
 		"cases": 1,
 		"deaths": 0,
 		"recovered": 0,
 		"critical": 0,
-		"posts": ["https://talksub.com/post/peKmBpQg8BpuMcLLIsnyky9"],
-		"urls": ["https://www.npr.org/sections/goatsandsoda/2020/01/21/798137962/china-tries-to-control-travel-in-and-out-of-wuhan-to-stem-coronavirus-spread"],
+		"posts": ["https://talksub.com/post/peKcuQPBK1bzceGzedPlmh9"],
+		"urls": ["https://www.forbes.com/sites/rachelsandler/2020/01/26/3rd-us-coronavirus-case-confirmed-in-california/#41dc32646bdf"],
 		"country": "US",
-		"state": "WA",
-		"county": null,
-		"city": "Everett",
-		"lat": 48.0000596,
-		"lon": -122.2074033,
-		"locationPrecision": 2
+		"state": "CA",
+		"county": "Orange County",
+		"city": null,
+		"lat": 33.6406314,
+		"lon": -118.3298567,
+		"locationPrecision": 30
 	},
 	{
 		"date": "1/24/2020, 11:00 AM GMT-0500",
@@ -32,19 +32,19 @@
 		"locationPrecision": 20
 	},
 	{
-		"date": "1/26/2020, 11:20 AM GMT-0500",
+		"date": "1/21/2020, 1:30 PM GMT-0500",
 		"cases": 1,
 		"deaths": 0,
 		"recovered": 0,
 		"critical": 0,
-		"posts": ["https://talksub.com/post/peKcuQPBK1bzceGzedPlmh9"],
-		"urls": ["https://www.forbes.com/sites/rachelsandler/2020/01/26/3rd-us-coronavirus-case-confirmed-in-california/#41dc32646bdf"],
+		"posts": ["https://talksub.com/post/peKmBpQg8BpuMcLLIsnyky9"],
+		"urls": ["https://www.npr.org/sections/goatsandsoda/2020/01/21/798137962/china-tries-to-control-travel-in-and-out-of-wuhan-to-stem-coronavirus-spread"],
 		"country": "US",
-		"state": "CA",
-		"county": "Orange County",
-		"city": null,
-		"lat": 33.6406314,
-		"lon": -118.3298567,
-		"locationPrecision": 30
+		"state": "WA",
+		"county": null,
+		"city": "Everett",
+		"lat": 48.0000596,
+		"lon": -122.2074033,
+		"locationPrecision": 2
 	}
 ]
