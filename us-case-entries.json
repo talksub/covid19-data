@@ -1,7 +1,7 @@
 [
 	{
 		"date": "1/21/2020, 1:30 PM GMT-0500",
-		"confirmed": 1,
+		"cases": 1,
 		"deaths": 0,
 		"recovered": 0,
 		"critical": 0,
@@ -17,7 +17,7 @@
 	},
 	{
 		"date": "1/24/2020, 11:00 AM GMT-0500",
-		"confirmed": 1,
+		"cases": 1,
 		"deaths": 0,
 		"recovered": 0,
 		"critical": 0,
@@ -30,10 +30,10 @@
 		"lat": 41.8307026,
 		"lon": -88.0131903,
 		"locationPrecision": 20
-	}
+	},
 	{
 		"date": "1/26/2020, 11:20 AM GMT-0500",
-		"confirmed": 1,
+		"cases": 1,
 		"deaths": 0,
 		"recovered": 0,
 		"critical": 0,
@@ -43,8 +43,8 @@
 		"state": "CA",
 		"county": "Orange County",
 		"city": null,
-		"lat": 33.6410077,
-		"lon": -118.0496439,
+		"lat": 33.6406314,
+		"lon": -118.3298567,
 		"locationPrecision": 30
-	},
+	}
 ]
